@@ -136,6 +136,17 @@ https://combine-seu-curriculo-com-a-vaga.lovable.app/
 
 ## Que ajustes você pediu depois da primeira geração, e por quê
 
+Após a primeira geração, solicitei dois ajustes principais:
+
+1) Alteração da cor de fundo para verde-água: Para conferir maior destaque visual aos quadros selecionados;
+
+2) Diferenciação das cores dos emojis: Para corrigir a repetição de tons e aplicar cores distintas que chamem mais a atenção.
+
+<img width="1911" height="930" alt="image" src="https://github.com/user-attachments/assets/724dcdd1-7519-45f4-8c17-66fe63b34bab" />
+
+## Endereço da aplicação publicada
+
+https://combine-seu-curriculo-com-a-vaga.lovable.app/
 
 
 
